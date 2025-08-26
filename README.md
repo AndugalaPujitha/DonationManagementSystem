@@ -46,18 +46,18 @@ cd DonationManagementSystem
 
 
 ### 2️⃣ Setup Backend
-'''
+```
 cd backend
 npm install
 npm start
-'''
+```
 
 ### 3️⃣ Setup Frontend
-'''
+```
 cd frontend
 npm install
 npm run dev
-'''
+```
 
 The app will be available at:
 👉 **Frontend:** [http://localhost:5173](http://localhost:5173)
